@@ -1,6 +1,6 @@
 These codes only work along with PyCharm. 
 
-Step 1: Install Pycharm from jetbrains.com/pycharm/download/
+Step 1: Install Pycharm from [jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC)
 
 Step 2: Create new project.
 
